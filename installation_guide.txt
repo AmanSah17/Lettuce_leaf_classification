@@ -1,0 +1,10 @@
+step 1: Create a python Virtual environment
+python -m venv leaf_classf
+
+Step 2:
+activate the virtual environment 
+
+leaf_classf\Scripts\activate (for windows: to activate the venv)
+
+
+step 3:
