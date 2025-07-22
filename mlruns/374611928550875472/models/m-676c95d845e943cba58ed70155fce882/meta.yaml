@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/models/m-676c95d845e943cba58ed70155fce882/artifacts
+creation_timestamp: 1753218878418
+experiment_id: '374611928550875472'
+last_updated_timestamp: 1753218881923
+model_id: m-676c95d845e943cba58ed70155fce882
+model_type: null
+name: RandomForest_model
+source_run_id: 075245e85eb349efa4793f2684150744
+status: 2
+status_message: null

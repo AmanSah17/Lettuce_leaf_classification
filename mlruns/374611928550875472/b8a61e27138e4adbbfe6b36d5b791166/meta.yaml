@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/b8a61e27138e4adbbfe6b36d5b791166/artifacts
+end_time: 1753218959873
+entry_point_name: ''
+experiment_id: '374611928550875472'
+lifecycle_stage: active
+run_id: b8a61e27138e4adbbfe6b36d5b791166
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753218959830
+status: 3
+tags: []
+user_id: amans

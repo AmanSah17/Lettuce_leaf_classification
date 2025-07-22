@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/7ab73a70c722485dabea0140edbf7674/artifacts
+end_time: 1753218891334
+entry_point_name: ''
+experiment_id: '374611928550875472'
+lifecycle_stage: active
+run_id: 7ab73a70c722485dabea0140edbf7674
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753218881946
+status: 3
+tags: []
+user_id: amans

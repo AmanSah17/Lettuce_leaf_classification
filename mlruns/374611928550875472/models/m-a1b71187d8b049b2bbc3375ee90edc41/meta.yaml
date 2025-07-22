@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/models/m-a1b71187d8b049b2bbc3375ee90edc41/artifacts
+creation_timestamp: 1753218831294
+experiment_id: '374611928550875472'
+last_updated_timestamp: 1753218837245
+model_id: m-a1b71187d8b049b2bbc3375ee90edc41
+model_type: null
+name: SVC_model
+source_run_id: 11a2a410139c42f9a027837ecb7fb213
+status: 2
+status_message: null
