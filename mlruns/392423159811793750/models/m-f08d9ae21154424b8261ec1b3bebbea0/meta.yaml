@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/392423159811793750/models/m-f08d9ae21154424b8261ec1b3bebbea0/artifacts
+creation_timestamp: 1753208651175
+experiment_id: '392423159811793750'
+last_updated_timestamp: 1753208655022
+model_id: m-f08d9ae21154424b8261ec1b3bebbea0
+model_type: null
+name: DecisionTree_model
+source_run_id: c3a32369aef946ccb4f817e031452b17
+status: 2
+status_message: null

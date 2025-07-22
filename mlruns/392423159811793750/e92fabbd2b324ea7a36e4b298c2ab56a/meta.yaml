@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/392423159811793750/e92fabbd2b324ea7a36e4b298c2ab56a/artifacts
+end_time: 1753208693768
+entry_point_name: ''
+experiment_id: '392423159811793750'
+lifecycle_stage: active
+run_id: e92fabbd2b324ea7a36e4b298c2ab56a
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753208655043
+status: 3
+tags: []
+user_id: amans

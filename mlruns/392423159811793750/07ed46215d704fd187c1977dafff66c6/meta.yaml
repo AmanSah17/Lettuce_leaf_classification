@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/392423159811793750/07ed46215d704fd187c1977dafff66c6/artifacts
+end_time: 1753208639070
+entry_point_name: ''
+experiment_id: '392423159811793750'
+lifecycle_stage: active
+run_id: 07ed46215d704fd187c1977dafff66c6
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753208631859
+status: 3
+tags: []
+user_id: amans
