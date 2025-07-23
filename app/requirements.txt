@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-streamlit
-torch
-pillow
-requests
-python-multipart
-mlflow
