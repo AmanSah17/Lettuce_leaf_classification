@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/0/5df5dca9216c4547b14eb6e2f74561e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5df5dca9216c4547b14eb6e2f74561e4
+run_name: TinyVGG-Classifier-Aug_model1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259847990
+status: 1
+tags: []
+user_id: amans

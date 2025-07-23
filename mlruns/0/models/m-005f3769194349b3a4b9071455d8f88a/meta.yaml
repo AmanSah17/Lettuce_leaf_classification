@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/0/models/m-005f3769194349b3a4b9071455d8f88a/artifacts
+creation_timestamp: 1753233837115
+experiment_id: '0'
+last_updated_timestamp: 1753233844662
+model_id: m-005f3769194349b3a4b9071455d8f88a
+model_type: null
+name: model
+source_run_id: cf73d0d7f39c4ea7b14d72c19f87d421
+status: 2
+status_message: null

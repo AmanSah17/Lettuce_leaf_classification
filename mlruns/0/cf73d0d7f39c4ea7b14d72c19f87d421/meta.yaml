@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/0/cf73d0d7f39c4ea7b14d72c19f87d421/artifacts
+end_time: 1753233906035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf73d0d7f39c4ea7b14d72c19f87d421
+run_name: TinyVGG-Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753227269926
+status: 3
+tags: []
+user_id: amans
