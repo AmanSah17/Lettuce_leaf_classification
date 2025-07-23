@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 from PIL import Image
 
-st.title("🌿 Lettuce Leaf Classifier")
+st.title("Lettuce Leaf Classifier")
 st.markdown("Upload a lettuce leaf image to classify.")
 
 uploaded_file = st.file_uploader("Upload Image", type=["png", "jpg", "jpeg"])
