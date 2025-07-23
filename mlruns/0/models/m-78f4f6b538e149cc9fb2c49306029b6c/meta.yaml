@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/0/models/m-78f4f6b538e149cc9fb2c49306029b6c/artifacts
+creation_timestamp: 1753272010051
+experiment_id: '0'
+last_updated_timestamp: 1753272018793
+model_id: m-78f4f6b538e149cc9fb2c49306029b6c
+model_type: null
+name: TinyVGG_DNN_model_0
+source_run_id: null
+status: 2
+status_message: null
