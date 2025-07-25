@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/models/m-f2b8919efef1420e8cd419f3e67cdb43/artifacts
+creation_timestamp: 1753483318397
+experiment_id: '374611928550875472'
+last_updated_timestamp: 1753483322968
+model_id: m-f2b8919efef1420e8cd419f3e67cdb43
+model_type: null
+name: voting_classifier_model
+source_run_id: 6f99780a8ece4a1eb19c69583a7bc790
+status: 2
+status_message: null

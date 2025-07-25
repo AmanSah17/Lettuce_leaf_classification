@@ -1,0 +1,10 @@
+artifact_location: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/models/m-070090f129f048dbaa3a56db7d549118/artifacts
+creation_timestamp: 1753483307524
+experiment_id: '374611928550875472'
+last_updated_timestamp: 1753483311667
+model_id: m-070090f129f048dbaa3a56db7d549118
+model_type: null
+name: XGBoost_model
+source_run_id: 0669b79f0388474ca20504cac14ebf2a
+status: 2
+status_message: null

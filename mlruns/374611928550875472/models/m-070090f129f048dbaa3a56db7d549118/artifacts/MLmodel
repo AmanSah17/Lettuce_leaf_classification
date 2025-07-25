@@ -1,0 +1,22 @@
+artifact_path: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/models/m-070090f129f048dbaa3a56db7d549118/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.3
+model_id: m-070090f129f048dbaa3a56db7d549118
+model_size_bytes: 1569708
+model_uuid: m-070090f129f048dbaa3a56db7d549118
+prompts: null
+run_id: 0669b79f0388474ca20504cac14ebf2a
+utc_time_created: '2025-07-25 22:41:47.596589'

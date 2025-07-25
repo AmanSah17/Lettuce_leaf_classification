@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/374611928550875472/6f99780a8ece4a1eb19c69583a7bc790/artifacts
+end_time: 1753483322980
+entry_point_name: ''
+experiment_id: '374611928550875472'
+lifecycle_stage: active
+run_id: 6f99780a8ece4a1eb19c69583a7bc790
+run_name: VotingClassifier_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753483318272
+status: 3
+tags: []
+user_id: amans
