@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/Lettuce_leaf_classification/Lettuce_leaf_classification/mlruns/0/26328e196594435c99d11351e49a5891/artifacts
+end_time: 1754573280558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26328e196594435c99d11351e49a5891
+run_name: HybridTinyVGG
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754573166159
+status: 3
+tags: []
+user_id: amans
